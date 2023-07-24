@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "359880053496",
+    "project_id": "mentallance",
+    "storage_bucket": "mentallance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359880053496:android:e14ff6666ee7053300610d",
+        "android_client_info": {
+          "package_name": "com.example.mentallance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359880053496-vdgkt49o83e5bq6s4nn91jq72j00g8cm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxUtkhnPx8_gCmw5yYw75rpCDSh4bd7-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359880053496-vdgkt49o83e5bq6s4nn91jq72j00g8cm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
